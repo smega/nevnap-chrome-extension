@@ -1,0 +1,38 @@
+#all {
+    width: 350px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#header {
+    #width: 350px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    padding: 10px;
+}
+
+#main {
+    #width: 350px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 20px;
+    padding: 10px;
+}
+
+ul#menu {
+    list-style-type: none;
+
+}
+
+#nevdatum {
+    width: 170px;
+}
+
+li {
+    float: left;
+}
+
+#nevnapok {
+    padding: 10px;
+}

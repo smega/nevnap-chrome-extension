@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Nevnap",
+  "version": "1.0.0",
+  "description": "Minden napra egy nevnap.",
+ 
+  "browser_action": {
+    "default_icon": "ikon.png",
+    "default_popup": "popup/index.html",
+    "default_title": "Mai nevnap"
+  }
+
+}
